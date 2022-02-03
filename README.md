@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ashoka74/EQ_Forecast">
-    <img src="images/Thumbnail_1.jpg" alt="Logo" width="80" height="80">
+    <img src="images/Thumbnail_1.jpg" alt="Logo" width="800" height="200">
   </a>
 
 <h3 align="center">Migratory Birds for Earthquake Forecasting</h3>
@@ -77,11 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -124,7 +120,7 @@ If using another editor from SageMaker Studio
    ```sh
    !pip install -r requirements.txt
    ```
-4. Run the blstm_presentation notebook
+4. Run `blstm_presentation.ipynb` 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,10 +129,10 @@ If using another editor from SageMaker Studio
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To understand the Model: 
+To further understand the Model: 
 [Model: https://youtu.be/Je__3TKdURU](https://youtu.be/Je__3TKdURU)
 
-The following video will get you through the code: 
+This video will guide you through the code: 
 [Code: https://youtu.be/I_iIZmXBTDk](https://youtu.be/I_iIZmXBTDk)
 
 
