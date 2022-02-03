@@ -109,16 +109,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+You should have Python already installed.
+
+If using another editor from SageMaker Studio
+* Create a Virtual Environment in the root folder
   ```sh
-  npm install npm@latest -g
+  python -m venv .venv
   ```
 
 ### Installation
 
-1. Get an API on SageMaker Studios
-2. Clone the repo from the notebook folder:
+1. Open SageMakerStudios (with GPU) or go in your local environment folder
+2. Clone the repo from a notebook directly:
    ```sh
    !git clone https://github.com/Ashoka74/EQ_Forecast.git
    
@@ -136,9 +138,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The following video will get you through the code: 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+[Code Presentation](https://youtu.be/I_iIZmXBTDk)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,12 +186,12 @@ Project Link: [https://github.com/Ashoka74/EQ_Forecast.git](https://github.com/A
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- PROJECT TEAM -->
+## Project Team
 
-* []()
-* []()
-* []()
+* [Sinan Robillard](@Ashoka74)
+* [Marco Fernandez](@@marcofer-fernandez)
+* [Ojavsi Gupta](@ojasviG)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
