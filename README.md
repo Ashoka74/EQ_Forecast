@@ -16,13 +16,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -94,7 +88,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [R](https://www.r-project.org/)
 * [Python](https://www.python.org/)
-* * [SageMaker Studio](https://studiolab.sagemaker.aws/)
+* [SageMaker Studio](https://studiolab.sagemaker.aws/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -138,9 +132,13 @@ If using another editor from SageMaker Studio
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The following video will get you through the code: 
+To understand the Model: 
+[Model: https://youtu.be/Je__3TKdURU](https://youtu.be/Je__3TKdURU)
 
-[Code Presentation](https://youtu.be/I_iIZmXBTDk)_
+The following video will get you through the code: 
+[Code: https://youtu.be/I_iIZmXBTDk](https://youtu.be/I_iIZmXBTDk)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -169,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
