@@ -92,14 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [R](https://www.r-project.org/)
+* [Python](https://www.python.org/)
+* * [SageMaker Studio](https://studiolab.sagemaker.aws/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,19 +117,17 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Get an API on SageMaker Studios
+2. Clone the repo from the notebook folder:
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   !git clone https://github.com/Ashoka74/EQ_Forecast.git
+   
    ```
-3. Install NPM packages
+3. Install required packages
    ```sh
-   npm install
+   !pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Run the blstm_presentation notebook
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -149,18 +143,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -194,9 +176,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Sinan Robillard - sinanrobillard@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Ashoka74/EQ_Forecast.git](https://github.com/Ashoka74/EQ_Forecast.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
