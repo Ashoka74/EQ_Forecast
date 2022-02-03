@@ -35,7 +35,7 @@
     <a href="https://github.com/Ashoka74/EQ_Forecast"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ashoka74/EQ_Forecast">View Demo</a>
+    <a href="https://youtu.be/I_iIZmXBTDk">View Demo</a>
     ·
     <a href="https://github.com/Ashoka74/EQ_Forecast/issues">Report Bug</a>
     ·
