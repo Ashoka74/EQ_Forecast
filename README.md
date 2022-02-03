@@ -24,13 +24,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ashoka74/EQ_Forecast">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Thumbnail_1.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Migratory Birds for Earthquake Forecasting</h3>
 
   <p align="center">
-    project_description
+    Migratory birds such are magneto-receptive animals. We believe that they can feel subtle geo-magnetic anomalies in the ULF band-width a few days prior to earthquakes. 
+    Using Supervised-Learning, we fed a B-LSTM with daily White Stork behaviour in order to predict earthquake imminence.
     <br />
     <a href="https://github.com/Ashoka74/EQ_Forecast"><strong>Explore the docs »</strong></a>
     <br />
