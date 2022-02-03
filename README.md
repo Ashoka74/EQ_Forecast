@@ -30,8 +30,9 @@
 <h3 align="center">Migratory Birds for Earthquake Forecasting</h3>
 
   <p align="center">
-    Migratory birds such are magneto-receptive animals. We believe that they can feel subtle geo-magnetic anomalies in the ULF band-width a few days prior to earthquakes. 
-    Using Supervised-Learning, we fed a B-LSTM with daily White Stork behaviour in order to predict earthquake imminence.
+    Subtle geo-magnetic anomalies in the ULF bandwidth called Unipolar Pulses can occur a few days prior to earthquakes. 
+    We believe that magneto-receptive migratory birds such as White Storks can feel these subtle changes in the local geo-magnetic field. Hence, we used Supervised-Learning to predict earthquake imminence by feeding a B-LSTM with White Stork' daily behaviour sequences.
+    <br />
     <br />
     <a href="https://github.com/Ashoka74/EQ_Forecast"><strong>Explore the docs »</strong></a>
     <br />
@@ -102,7 +103,7 @@ To get a local copy up and running follow these simple example steps.
 
 You should have Python already installed.
 
-If using another editor from SageMaker Studio
+If using another editor than SageMaker Studio
 * Create a Virtual Environment in the root folder
   ```sh
   python -m venv .venv
