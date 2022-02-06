@@ -131,7 +131,7 @@ If using another editor than SageMaker Studio
 ## Usage
 
 To further understand the Model: 
-[Model: https://youtu.be/Je__3TKdURU](https://youtu.be/Je__3TKdURU)
+[Model: https://youtu.be/NBq5jFEnzyY](https://youtu.be/NBq5jFEnzyY)
 
 This video will guide you through the code: 
 [Code: https://youtu.be/I_iIZmXBTDk](https://youtu.be/I_iIZmXBTDk)
