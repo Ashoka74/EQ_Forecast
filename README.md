@@ -29,6 +29,9 @@
 
 <h3 align="center">Migratory Birds for Earthquake Forecasting</h3>
 
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/Ashoka74/EQ_Forecast/blob/main/blstm_presentation.ipynb)
+
+
   <p align="center">
     Subtle geo-magnetic anomalies in the ULF bandwidth called Unipolar Pulses can occur a few days prior to earthquakes. 
     We believe that magneto-receptive migratory birds such as White Storks can feel these subtle changes in the local geo-magnetic field. Hence, we used Supervised-Learning to predict earthquake imminence by feeding a B-LSTM with White Stork' daily behaviour sequences.
